@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'spree', github: 'NishantUpadhyay-BTC/spree', branch: 'bug_fixes.3-7-stable'
+gem 'spree', github: 'THEFIFTHCOLLECTION/spree', branch: 'feature/migration_3_7'
 # Provides basic authentication functionality for testing parts of your engine
 gem 'spree_auth_devise', '~> 3.5'
 
